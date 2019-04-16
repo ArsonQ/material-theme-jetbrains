@@ -242,27 +242,6 @@ You can customize some plugin features in a Settings Panel under **Settings** ->
 
 More info at https://www.material-theme.com/docs/configuration/settings/
 
---------------------
-
-## Development
-
-### Requirements
-
-* JDK 1.8
-* IntelliJ IDEA with Gradle
-
-### Developing using IntelliJ Gradle
-
-You can simplify development process thanks to Intellij's **Gradle plugin**. Install the plugin, restart the IDE and you will be prompted with a window asking if you want to import the project as a Gradle project. After that IntelliJ will download the Gradle Wrapper and the tasks will appear in the Gradle Tool Panel on the right.
-
-Import the project from the `build.gradle` file and develop as normal.  Make sure you select JDK 8 in the import wizard.  The other defaults are fine.  You can run the above mentioned CLI Gradle tasks directly in the "Gradle" Tool Window, which expands from the right side of the screen.  To debug, find "runIde" in the list, right-click it, and choose Run/Debug.
-
---------------------
-
-## Contribution
-
-Pull requests are appreciated! I can use some help on bugs and features listed in
-https://github.com/ChrisRM/material-theme-jetbrains/issues, or you can send me some new ideas!
 
 --------------------
 
